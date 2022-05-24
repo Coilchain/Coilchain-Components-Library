@@ -33,7 +33,7 @@
   (pad 2 smd rect (at -3.366 2.54 0) (size 1.143 2.032) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 3.366 2.54 0) (size 1.143 2.032) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 3.366 -2.54 0) (size 1.143 2.032) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\Users\\jtuma\\OneDrive\\Documents\\KiCad\\SamacSys\\SamacSys_Parts.3dshapes\\PE-68386NLT.stp"
+  (model "${KIPRJMOD}/../../Coilchain-Components-Library/coilchain-3D/SamacSys_Parts.3dshapes/PE-68386NLT.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

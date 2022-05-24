@@ -24,7 +24,7 @@
   (fp_line (start -1.35 0.825) (end 1.35 0.825) (layer F.SilkS) (width 0.2))
   (pad 1 smd rect (at -1.5 0 90) (size 1.12 1.24) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.5 0 90) (size 1.12 1.24) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\Users\\jtuma\\OneDrive\\Documents\\KiCad\\SamacSys\\SamacSys_Parts.3dshapes\\MBR140SFT1G.stp"
+  (model "${KIPRJMOD}/../../Coilchain-Components-Library/coilchain-3D/SamacSys_Parts.3dshapes/MBR140SFT1G.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

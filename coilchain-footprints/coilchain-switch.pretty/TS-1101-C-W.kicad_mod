@@ -32,7 +32,7 @@
   (fp_line (start -1.7 -1.05) (end 1.8 -1.05) (layer "F.Fab") (width 0.1) (tstamp f68e63fb-1a90-4c29-9633-700cb3703859))
   (pad "1" smd rect (at -3.7 0) (size 1.2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ae8f9c7e-bf91-41f7-8b37-6a09fac01f48))
   (pad "2" smd rect (at 3.7 0) (size 1 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8c1cfb24-5faf-4191-ba4d-b6c52928b1f4))
-  (model "COILCHAIN3D:/coilchain-switch/TS-1101-X-X.stp"
+  (model "${KIPRJMOD}/../../Coilchain-Components-Library/coilchain-3D/coilchain-switch/TS-1101-X-X.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
